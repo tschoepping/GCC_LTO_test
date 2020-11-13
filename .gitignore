@@ -5,3 +5,4 @@
 *.ii
 *.res
 *out
+*.lto_wrapper_args
